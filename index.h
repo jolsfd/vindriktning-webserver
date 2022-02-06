@@ -53,7 +53,7 @@ header {
 </div>
 
 <div class="container">
-    <p>Source: <a href="https://github.com/jolsfd/vindriktning">GitHub</a></p>
+    <p>Source: <a href="https://github.com/jolsfd/vindriktning-webserver">GitHub</a></p>
 </div>
 
 <script>

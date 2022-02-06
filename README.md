@@ -12,3 +12,10 @@ This project is based on [vindriktning2adafruitio](https://github.com/MakeMagazi
 ## Important Information
 * Test if ESP is connected to your computer with `dmesg`
 * Permission to write to ESP with `sudo chmod a+rw /dev/ttyUSB0`
+
+## Shopping List
+* Wemos D1 Mini
+* IKEA Vindriktning
+* 1 kilo ohms resistor
+* 3 kilo ohms resistor
+* 3 cables
